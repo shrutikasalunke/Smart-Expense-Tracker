@@ -121,19 +121,16 @@ To run the project:
 
 ## Screenshots
 
-Add screenshots of:
-
 * Login Page
+  "C:\Users\shrut\OneDrive\Pictures\screenshotofloginpage.png"
 * Dashboard
-* Expense Analytics
+  C:\Users\shrut\OneDrive\Pictures\screenshotofmainpage.png
 * Transaction History
+  C:\Users\shrut\OneDrive\Pictures\screenshotofmainpage.png
+* Expense Analytics
+  
+  
 
-Example:
-
-```bash
-screenshots/dashboard.png
-screenshots/login-page.png
-```
 
 
 ## Future Improvements
