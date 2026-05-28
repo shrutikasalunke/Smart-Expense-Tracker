@@ -121,13 +121,7 @@ To run the project:
 
 ## Screenshots
 
-* Login Page
-  "C:\Users\shrut\OneDrive\Pictures\screenshotofloginpage.png"
-* Dashboard
-  C:\Users\shrut\OneDrive\Pictures\screenshotofmainpage.png
-* Transaction History
-  C:\Users\shrut\OneDrive\Pictures\screenshotofmainpage.png
-* Expense Analytics
+
   
   
 
