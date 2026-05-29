@@ -5,7 +5,7 @@ A modern and responsive web-based expense tracking application that helps users 
 
 ## Overview
 
-Smart Expense Tracker is a personal finance management application designed to simplify expense tracking and budgeting. Users can securely log in, add transactions, categorize expenses, and analyze spending habits using graphical insights.
+Smart Expense Tracker is a personal finance management application designed to simplify personal finance management, expense tracking, and budgeting. Users can securely log in, add transactions, categorize expenses, and analyze spending habits using graphical insights.
 
 The application uses Firebase Authentication for user login/signup and Firestore Database for storing transaction data securely.
 
@@ -65,8 +65,7 @@ Smart-Expense-Tracker/
 │
 ├── README.md
 ├── code.html
-├── screenshots/
-└── assets/
+└── screenshots/
 ```
 
 
@@ -121,10 +120,17 @@ To run the project:
 
 ## Screenshots
 
+### Login Page
+![Login Page](screenshots/login_page.png)
 
-  
-  
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
+### Expense Analytics
+![Expense Analytics](screenshots/expense_analytics.png)
+
+### Transaction History
+![Transaction History](screenshots/transaction_history.png)
 
 
 ## Future Improvements
