@@ -64,7 +64,7 @@ The application uses Firebase Authentication for user login/signup and Firestore
 Smart-Expense-Tracker/
 │
 ├── README.md
-├── code.html
+├── index.html
 └── screenshots/
 ```
 
